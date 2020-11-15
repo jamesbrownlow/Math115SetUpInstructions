@@ -32,6 +32,19 @@ Select the Free student account for both.  You need two Rstudio.cloud accounts b
 
 ### How to create a base project  
 
+To install a base project you must be in a "shared space" first.  Then go to this git repo
+and download it to your computer as a zip file.
+
+https://github.com/AVCDRK/RstudioCloudPackageLoad.git  
+
+Now go to your shared space and start a new project and name the project mybase.
+
+next upload the zip file to your mybase project.  Read the readme file and
+
+follow its instructions.
+
+  
+
 ### How to link shared spaces, and invite others to your space
 
 
