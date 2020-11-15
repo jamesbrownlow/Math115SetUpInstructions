@@ -30,7 +30,7 @@ Select the Free student account for both.  You need two Rstudio.cloud accounts b
   
 ### How to make a shared space  
 
-A shared space is an area where a group of people can collaborate together - only the members of a shared space can access the space and its contents.
+A shared space is an area where a group of people can collaborate together - only the members of a shared space can access the space and its contents.  A shared space is important in that you can incorporate a 'base' project-- i.e. one that has preloaded packages
 
 To create a shared space on the navigation menu (the menu icon at the upper left) and choose New Space, then follow the on-screen instructions.
 
