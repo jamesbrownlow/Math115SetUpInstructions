@@ -1,0 +1,25 @@
+---
+title: "Set Up Instructions"
+author: "Math 115"
+date: "11/15/2020"
+output: 
+  html_document:
+    toc: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Math 115:  Set up your working environment 
+
+## GitHub.    
+Establish a GitHub account, it is free.  This is necessary because you will get write-up problems through GitHub.   You will also submit write-ups for grading by completing your assignment and pushing it to your GitHub account and the submitting the write-up URL.
+a.	Got to https://github.com/  Select the ‘Sign Up’ button 
+
+  
+Select a username, I recommend you use your AVC email account and select your password.  BE SURE TO REMEMBER YOUR USERNAME AND PASSWORD.  These are username and password for you GitHub account.  If you forget either, you will not be able to access your GitHub account.
+
+## Rstudio.cloud.   
+Rstudio.cloud is the free software we use for statistical analysis and reporting.  Establish two Rstudio.cloud accounts, one using your AVC.EDU email address and one using another email address:  https://rstudio.cloud/
+
