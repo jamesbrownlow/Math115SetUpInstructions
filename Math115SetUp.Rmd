@@ -35,7 +35,7 @@ A shared space is an area where a group of people can collaborate together - onl
 To create a shared space on the navigation menu (the menu icon at the upper left) and choose New Space, then follow the on-screen instructions.
 
 
-Members
+**Members**  
 After creating a space, go to the Members area to manage its membership. You can add members to your space in two ways:
 
    1. To add members one by one, choose the Invitation Required option, and send invitations to each person you’d like to add to the space via the Add Member button.
@@ -43,9 +43,9 @@ After creating a space, go to the Members area to manage its membership. You can
   2. To allow many people to join the space, choose the Sharing Link option, copy the sharing link and then share that link with all whom you’d like to join the space, either via an email or by posting the link on a web page. Keep in mind that anyone with that link can join your space. If you would like to disable a link you previously shared, choose **Reset Sharing Link;** this will prevent any additional people from joining the space using that link.
 
 Note that you can switch the access option at any time - a common approach is to initially set the access option to Sharing Link, post the sharing link, then after all the people you want to join the space have done so, switch access to Invitation Only. The original sharing link will no longer allow additional people to join the space, but you can add any new members individually.
+  
+**Roles**  
 
-
-**Roles**
 Each member of a space is assigned as a contributor when he/she joins the space.
 
 ### How to create a base project  
