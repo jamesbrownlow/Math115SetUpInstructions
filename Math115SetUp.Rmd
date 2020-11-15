@@ -32,6 +32,23 @@ Select the Free student account for both.  You need two Rstudio.cloud accounts b
 
 ### How to create a base project  
 
+To install a base project you must be in a "shared space" first.  
+
+Now go to your shared space and start a new project and name the project "mybase".
+
+Change the "visibility" of the project so that everyone can see it.
+
+Now go back to viewing all the projects in your shared space and click on
+settings and make "mybase" the base project. 
+
+Next, from the window where you made mybase the base project you edit it.
+
+First add version control to it by going to tools -> version control -> git
+
+Then choose tools -> Install Packages -> and choose tidyverse, tigerstats, knitr
+
+Later we will come back and install more packages as we move through the course.
+
 ### How to link shared spaces, and invite others to your space
 
 
