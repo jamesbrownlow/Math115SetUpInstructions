@@ -18,7 +18,7 @@ Establish a GitHub account, it is free.  This is necessary because you will get 
 a.	Got to https://github.com/  Select the ‘Sign Up’ button 
 
   
-Select a username, I recommend you use your AVC email account and select your password.  BE SURE TO REMEMBER YOUR USERNAME AND PASSWORD.  These are username and password for you GitHub account.  If you forget either, you will not be able to access your GitHub account.
+Select a username, I recommend you use your AVC email account and select your password.  BE SURE TO REMEMBER YOUR USERNAME AND PASSWORD. We suggest your AVC email as the username, and your AVC email password as the password. If you use something other than the AVC credentials, WRITE THEM DOWN.  These are username and password for you GitHub account.  If you forget either, you will not be able to access your GitHub account.
 
 ## Rstudio.cloud.   
 Rstudio.cloud is the free software we use for statistical analysis and reporting.  Establish two Rstudio.cloud accounts, one using your AVC.EDU email address and one using another email address:  https://rstudio.cloud/  
@@ -27,7 +27,11 @@ Select the Free student account for both.  You need two Rstudio.cloud accounts b
 
   1. Set up a shared account and a base project in each 
   2. In each individual account add these packages and their dependencies to your base project.  Here is the list tidyverse, tigerstats,knitr,car,leaps,leaps.  
+  
+### How to make a shared space  
 
+### How to create a base project  
 
+### How to link shared spaces, and invite others to your space
 
 
