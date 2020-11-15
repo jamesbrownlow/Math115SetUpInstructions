@@ -50,18 +50,22 @@ Each member of a space is assigned as a contributor when he/she joins the space.
 
 ### How to create a base project  
 
-To install a base project you must be in a "shared space" first.  Then go to this git repo
-and download it to your computer as a zip file.
+To install a base project you must be in a "shared space" first.  
 
-https://github.com/AVCDRK/RstudioCloudPackageLoad.git  
+Now go to your shared space and start a new project and name the project "mybase".
 
-Now go to your shared space and start a new project and name the project mybase.
+Change the "visibility" of the project so that everyone can see it.
 
-next upload the zip file to your mybase project.  Read the readme file and
+Now go back to viewing all the projects in your shared space and click on
+settings and make "mybase" the base project. 
 
-follow its instructions.
+Next, from the window where you made mybase the base project you edit it.
 
-  
+First add version control to it by going to tools -> version control -> git
+
+Then choose tools -> Install Packages -> and choose tidyverse, tigerstats, knitr
+
+Later we will come back and install more packages as we move through the course.
 
 ### How to link shared spaces, and invite others to your space
 
