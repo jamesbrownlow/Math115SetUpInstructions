@@ -23,7 +23,7 @@ Select a username, I recommend you use your AVC email account and select your pa
 ## Rstudio.cloud.   
 Rstudio.cloud is the free software we use for statistical analysis and reporting.  Establish two Rstudio.cloud accounts, one using your AVC.EDU email address and one using another email address:  https://rstudio.cloud/  
 
-Select the Free student account for both.  You need two Rstudio.cloud accounts because the free accounts limit you to 15 hours and 5 projects each.  We will link the two accounts
+Select the Free student account for both.  You need two Rstudio.cloud accounts because the free accounts limit you to 15 hours and 15 projects each.  We will link the two accounts
 
   1. Set up a shared account and a base project in each 
   2. In each individual account add these packages and their dependencies to your base project.  Here is the list tidyverse, tigerstats,knitr,car,leaps,leaps.  
