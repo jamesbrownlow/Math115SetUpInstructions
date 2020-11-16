@@ -51,4 +51,11 @@ Later we will come back and install more packages as we move through the course.
 
 ### How to link shared spaces, and invite others to your space
 
-
+You can invite other people to collaborate with you in a shared space that you control
+(i.e. that you are listed as the admin of that space).  For several reasons it is wise 
+to only make invitees to your space "contributors".  This is especially true if the other 
+person is you with a different email identity.  So invite your other identity to share your space.
+It will send you an email that you need to acknowledge in order to be a member of that space. Another 
+important thing to keep in mind is the name you give to your shared space. My suggestion is to have the 
+name of your shared space clearly indicate which email identity it is associated with. You will need to 
+repeat this process for every shared space you acquire. The whole reason you are doing this is to gain more resource elbow room.  With this approach when you are running out of time in one shared space you simply move the project to another space where you have more time available.  Don't get in the habit of leaving projects pile up in rstudio.cloud shared spaces. The mindset to adopt is that github is your project locker room. Rstudio.cloud is a workshop that you try to keep as clean as possible. When its time to continue work on a project you start anew from the github repository where you keep it. When you finish your work, commit your changes and push them back up to github, then delete your project from your rstudio.cloud shared space.
