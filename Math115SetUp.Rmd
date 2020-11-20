@@ -64,6 +64,21 @@ Then choose tools -> Install Packages -> and choose tidyverse, tigerstats, knitr
 
 Later we will come back and install more packages as we move through the course.
 
+#### Cautions  
+
+R periodically will get updated to its next higher version by Rstudio.cloud. When 
+this happens you will need to reinstall your base package to have all the latest 
+versions.  If you do not do this you would alternatively have to specify that the 
+R version of your new project would need to match that of your base project. We 
+say Keep It Simple and keep base project in line with R-latest version.  
+
+##### A more complete Base Package  
+ Here you would download https://github.com/AVCDRK/RstudioCloudPackageLoad.git 
+ as a zip file.  Then open a new project called "mybase" and upload the zip file 
+ to your "mybase" project.  There will be a README file that you need to read 
+ in order to proceed. Finally go to tools-> Version Control -> git
+ Then change to properties so everyone can see it and make "mybase" your base project.
+
 ### How to link shared spaces, and invite others to your space
 
 You can invite other people to collaborate with you in a shared space that you control
