@@ -50,34 +50,35 @@ Each member of a space is assigned as a contributor when he/she joins the space.
 
 ### How to create a base project  
 
-To install a base project you must be in a "shared space" first.  
-Now go to your shared space and start a new project and name the project "mybase".
+To install a base project you must be in a "shared space."   
+In this shared space start a new project, and name the project "myBase".
+
 Change the "visibility" of the project so that everyone can see it.
 
 Now go back to viewing all the projects in your shared space and click on
-settings and make "mybase" the base project. 
+settings and make "myBase" the base project. 
 
-Next, from the window where you made mybase the base project you edit it.
+Next, from the window where you made myBase the base project you edit it.
 
-First add version control to it by going to tools -> version control -> git
+First add version control to it by going to tools -> version control -> select 'git'
 Then choose tools -> Install Packages -> and choose tidyverse, tigerstats, knitr
 
-Later we will come back and install more packages as we move through the course.
+Later we will come back and install more packages as neede through the course.
 
 #### Cautions  
 
 R periodically will get updated to its next higher version by Rstudio.cloud. When 
-this happens you will need to reinstall your base package to have all the latest 
+this happens you will need to re-install your base package to have all the latest package 
 versions.  If you do not do this you would alternatively have to specify that the 
 R version of your new project would need to match that of your base project. We 
 say Keep It Simple and keep base project in line with R-latest version.  
 
-##### A more complete Base Package  
- Here you would download https://github.com/AVCDRK/RstudioCloudPackageLoad.git 
- as a zip file.  Then open a new project called "mybase" and upload the zip file 
- to your "mybase" project.  There will be a README file that you need to read 
- in order to proceed. Finally go to tools-> Version Control -> git
- Then change to properties so everyone can see it and make "mybase" your base project.
+### To make a base project with all packages used in this course  
+
+ To make a more complete base package download https://github.com/AVCDRK/RstudioCloudPackageLoad.git 
+ as a zip file. Usually this will download to your 'Downloads' folder. Extract this zip file on you computer.  Then open a new project called "myBase" and upload three files extracted from the zip file: upload 1. mypacks, 2. loadMypacks.r, and 3. README.rmd to your "myBase" project. Follow the directions in the README file to continue.   Finally go to tools-> Version Control -> select 'git'
+ 
+ Then change to visibility property (in settings) of myBase so everyone can see it and make "myBase" your base project.
 
 ### How to link shared spaces, and invite others to your space
 
